@@ -94,7 +94,7 @@ src/
 
 Music (/api/music)
  ```bash
-   | Method | Endpoint | Access |
+| Method | Endpoint | Access |
 | ------ | -------- | ------ |
 | POST   | /upload  | Artist |
 | GET    | /        | User   |
@@ -102,7 +102,7 @@ Music (/api/music)
    ````
 Albums (/api/albums)
  ```bash
-  | Method | Endpoint | Access |
+| Method | Endpoint | Access |
 | ------ | -------- | ------ |
 | POST   | /create  | Artist |
 | GET    | /        | Public |
